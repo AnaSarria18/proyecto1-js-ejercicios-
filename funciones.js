@@ -112,6 +112,6 @@ bienvenido();
 
 
 
-      /* escribe una funcion que solicite un numero y imprima la tabla de multiplicar */
+
      
      
